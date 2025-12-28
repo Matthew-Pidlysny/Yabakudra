@@ -1,0 +1,1 @@
+Fun reading:  Every time you increase the fraction of P, like to say 2/P, you change the yield by 13 percent apparently.  So, the difference between 2 and 3 should be ~13 percent from what I hear, until you reach a certain number at which point it becomes 12.8.  I really don't know what formula that person used but I heard it, it might be true about the number.
