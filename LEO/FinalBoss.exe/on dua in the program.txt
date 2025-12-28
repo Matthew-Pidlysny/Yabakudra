@@ -1,0 +1,5 @@
+- Supinates for signal to turn off
+
+- Sometimes, supination request gives more magic data than predicted and is used in a message
+
+- Mostly, my influence from what I am seeing comes out in the wording of the program.
